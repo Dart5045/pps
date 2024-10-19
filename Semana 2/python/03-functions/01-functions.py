@@ -1,3 +1,9 @@
+"""
+Las funciones se utilizan en programación para agrupar un conjunto de instrucciones que quieres utilizar repetidamente o que, 
+debido a su complejidad, es mejor que estén contenidas en un subprograma y que se invoquen cuando sea necesario
+"""
+
+
 # Imprime un mensaje en la terminal/consola
 print("Hola!!!")
 
