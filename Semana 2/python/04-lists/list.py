@@ -1,7 +1,6 @@
-
-
-# El corchete
-
+""" Crear una lista en Python es muy simple, y gracias que cuenta con dos alternativas para hacerlo, tenemos mucho más control sobre cómo y dónde es posible generar y gestionar una lista. 
+El primer método para crear una lista en Python es utilizando la notación de corchetes [ ]
+"""
 numeros = [1, 2, 3, 3]
 letras = ["A", "B", "C"]
 palabras = ["Hola", "Mundo"]
